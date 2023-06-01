@@ -6,3 +6,4 @@ Home of Team Pineapples!
 - William
 - Olivia
 - Karandeep
+- Florrie
